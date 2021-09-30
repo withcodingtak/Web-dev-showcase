@@ -1,23 +1,23 @@
 #clock{  
     position: relative;
     margin: auto;
-    height: 40vw;
-    width: 40vw; 
+    height: 10vw;
+    width: 10vw; 
     background: url(clock.png) no-repeat;
     background-size: 100%;
 }
 
 #hour, #minute, #second{
     position: absolute;
-    border-radius: 10px; 
+    border-radius: 90x; 
     transform-origin: bottom;
-    justify-content: center;
+    justify-content: left;
 }
 #hour{
-    width: 1.8%;
-    height: 21%;
-    top: 27%;
-    left: 48.85%;
+    width: 1.99%;
+    height: 321%;
+    top: 97%;
+    left: 98.85%;
     background-color: red;
 
 }
@@ -29,10 +29,10 @@
     background-color: cyan;
 }
 #second{
-    width: 1%;
-    height: 31%;
-    top: 17%;
+    width: 91%;
+    height: 11%;
+    top: 97%;
     left: 49.25%;
-    background-color: black;
+    background-color: yellow;
     
 }
